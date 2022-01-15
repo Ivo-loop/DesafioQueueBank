@@ -1,0 +1,15 @@
+C:\Repositories\treinamento\LetsCode\Banco\Banco\bin\Debug\net6.0\Banco.exe
+C:\Repositories\treinamento\LetsCode\Banco\Banco\bin\Debug\net6.0\Banco.deps.json
+C:\Repositories\treinamento\LetsCode\Banco\Banco\bin\Debug\net6.0\Banco.runtimeconfig.json
+C:\Repositories\treinamento\LetsCode\Banco\Banco\bin\Debug\net6.0\Banco.dll
+C:\Repositories\treinamento\LetsCode\Banco\Banco\bin\Debug\net6.0\ref\Banco.dll
+C:\Repositories\treinamento\LetsCode\Banco\Banco\bin\Debug\net6.0\Banco.pdb
+C:\Repositories\treinamento\LetsCode\Banco\Banco\obj\Debug\net6.0\Banco.csproj.AssemblyReference.cache
+C:\Repositories\treinamento\LetsCode\Banco\Banco\obj\Debug\net6.0\Banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositories\treinamento\LetsCode\Banco\Banco\obj\Debug\net6.0\Banco.AssemblyInfoInputs.cache
+C:\Repositories\treinamento\LetsCode\Banco\Banco\obj\Debug\net6.0\Banco.AssemblyInfo.cs
+C:\Repositories\treinamento\LetsCode\Banco\Banco\obj\Debug\net6.0\Banco.csproj.CoreCompileInputs.cache
+C:\Repositories\treinamento\LetsCode\Banco\Banco\obj\Debug\net6.0\Banco.dll
+C:\Repositories\treinamento\LetsCode\Banco\Banco\obj\Debug\net6.0\ref\Banco.dll
+C:\Repositories\treinamento\LetsCode\Banco\Banco\obj\Debug\net6.0\Banco.pdb
+C:\Repositories\treinamento\LetsCode\Banco\Banco\obj\Debug\net6.0\Banco.genruntimeconfig.cache
